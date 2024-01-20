@@ -7,8 +7,8 @@ import Footer from "./Footer";
 export default function App() {
   return (
     <>
+    {/* component instances */}
       <Header />
-
       <Menu />
       <Footer />
     </>
